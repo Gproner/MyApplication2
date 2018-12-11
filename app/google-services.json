@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "479505389332",
+    "firebase_url": "https://final-asg.firebaseio.com",
+    "project_id": "final-asg",
+    "storage_bucket": "final-asg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479505389332:android:dd32994bf30cdf08",
+        "android_client_info": {
+          "package_name": "com.sheridancollege.georg.finalasgdistmob"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479505389332-u04bu5pq7j7ctje60gbegfj5t34969cs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sheridancollege.georg.finalasgdistmob",
+            "certificate_hash": "083443b6f1da706d71924b9b677353598a2787ce"
+          }
+        },
+        {
+          "client_id": "479505389332-r8c3h7kt7o607in9tgcjo7cvroml2hje.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJmzNlifW6mA1okbWFSFNmWkTv2gqCoI4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "479505389332-r8c3h7kt7o607in9tgcjo7cvroml2hje.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479505389332:android:ca357d6d9b36b156",
+        "android_client_info": {
+          "package_name": "com.sheridancollege.georg.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479505389332-k5hneh20rinf1nf84a6hfhmclmjsaa63.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sheridancollege.georg.myapplication",
+            "certificate_hash": "083443b6f1da706d71924b9b677353598a2787ce"
+          }
+        },
+        {
+          "client_id": "479505389332-r8c3h7kt7o607in9tgcjo7cvroml2hje.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJmzNlifW6mA1okbWFSFNmWkTv2gqCoI4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "479505389332-r8c3h7kt7o607in9tgcjo7cvroml2hje.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479505389332:android:424ef017a61f55cd",
+        "android_client_info": {
+          "package_name": "com.sheridancollege.georg.rockpaperscissors"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479505389332-gqgeqg7t0qr41go9o5odbj4g002uaamj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sheridancollege.georg.rockpaperscissors",
+            "certificate_hash": "083443b6f1da706d71924b9b677353598a2787ce"
+          }
+        },
+        {
+          "client_id": "479505389332-r8c3h7kt7o607in9tgcjo7cvroml2hje.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJmzNlifW6mA1okbWFSFNmWkTv2gqCoI4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "479505389332-r8c3h7kt7o607in9tgcjo7cvroml2hje.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
